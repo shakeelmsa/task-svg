@@ -1,0 +1,9 @@
+.my-svg{
+    background-color:black;
+    min-height:100vh;
+}
+
+.rectangle{
+    fill:black;
+    opacity:0.5;
+}
